@@ -7,4 +7,6 @@ Hackathon veteran.
 
 Handy with Django and AWS. 
 
+I also write cool articles: https://dev.to/tao
+
 **Check out my work!**
