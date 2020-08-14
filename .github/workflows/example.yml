@@ -12,7 +12,7 @@ jobs:
         persist-credentials: false
         fetch-depth: 0
     - name: Create local changes
-      uses: lloydtao/profile-readme-guestbook@master
+      uses: lloydtao/profile-readme-guestbook@main
       with:
         user: ${{ github.event.issue.issue.title }}
         message: ${{ github.event.issue.issue.user.login }}
