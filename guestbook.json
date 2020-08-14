@@ -6,6 +6,9 @@
       },
       "guaranteed to work": {
         "message": "LloydTao"
+      },
+      "LloydTao": {
+        "message": "actually guaranteed to work"
       }
     }
   }
